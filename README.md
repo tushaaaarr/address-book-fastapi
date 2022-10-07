@@ -1,6 +1,6 @@
 # find-my-food
 
-Live demo --  https://find-my-food.herokuapp.com//
+Live demo --  https://find-my-food.herokuapp.com/
 
 
 After Cloning project Follow below steps
