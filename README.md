@@ -38,7 +38,7 @@ password - Password@808
 
 ```
 User -- (Customer)
-1) User can see all food recipes. (Login Required)
+1) User cam set of stores that would cost minimum for a recipe. (Login Required) 
 
 2) User can sort recipes with category..
 
